@@ -1,4 +1,4 @@
-# 🌟 Ultimate AI Integration Platform
+# 🌟 GENEXUS-AI Ultimate AI Integration Platform
 
 ![GENEXUS-AI Banner](https://github.com/aymantaha3345/GENEXUS-AI/blob/main/src/Banner.jpg?raw=true)
 
@@ -357,6 +357,7 @@ This platform is built with ❤️ for the developer community, with a commitmen
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 © 2026 Ayman | MIT License | [Privacy Policy](https://github.com/aymantaha3345/GENEXUS-AI/blob/main/PRIVACY.md) | [Terms of Service](https://github.com/aymantaha3345/GENEXUS-AI/blob/main/TERMS.md)
+
 
 
 
